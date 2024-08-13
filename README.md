@@ -3,10 +3,10 @@
 Research assistant at King's College London specialising in neutrino physics and currently working on the T2K, Super-K and Hyper-K experiments with expertise in data analysis, detector calibration, light readout instrumentation and measurement, simulation and detector operations.
 
 <a href="https://github.com/rkralik5/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rkralik5&show_icons=true&theme=cobalt" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rkralik5&show_icons=true&theme=cobalt&card_width=320" />
 </a>
 <a href="https://github.com/rkralik5/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkralik5&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkralik5&layout=compact&langs_count=4&card_width=320" />
 </a>
 
 <!--
