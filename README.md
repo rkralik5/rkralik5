@@ -1,13 +1,20 @@
-## Hi I'm Robert 👋
+## Hi, I'm Robert
 
+<p align="center">
 Research assistant at King's College London specialising in neutrino physics and currently working on the T2K, Super-K and Hyper-K experiments with expertise in data analysis, detector calibration, light readout instrumentation and measurement, simulation and detector operations.
+</p>
 
+<p align="center">
 <a href="https://github.com/rkralik5/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rkralik5&show_icons=true&theme=cobalt&card_width=260" />
+  <img  width=460 border=10 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rkralik5&show_icons=true&theme=cobalt"/>
 </a>
+</p>
+
+<p align="center">
 <a href="https://github.com/rkralik5/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkralik5&layout=compact&langs_count=4&card_width=260" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkralik5&layout=compact&langs_count=8&card_width=120&theme=cobalt" />
 </a>
+</p>
 
 <!--
 **rkralik5/rkralik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
