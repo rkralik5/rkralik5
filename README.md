@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Robert 👋
+
+Research assistant at King's College London specialising in neutrino physics and currently working on the T2K, Super-K and Hyper-K experiments with expertise in data analysis, detector calibration, light readout instrumentation and measurement, simulation and detector operations.
 
 <!--
 **rkralik5/rkralik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
