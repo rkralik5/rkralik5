@@ -5,13 +5,13 @@ Research assistant at King's College London specialising in neutrino physics and
 </p>
 
 <p align="center">
-<a href="https://github.com/rkralik5/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img  width=460 border=10 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rkralik5&show_icons=true&theme=cobalt"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/rkralik5/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rkralik5&layout=compact&langs_count=8&card_width=120&theme=cobalt" />
 </a>
 </p>
