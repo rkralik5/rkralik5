@@ -16,6 +16,12 @@ Research assistant at King's College London specialising in neutrino physics and
 </a>
 </p>
 
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=rkralik5&theme=dracula" />
+</a>
+</p>
+
 <!--
 **rkralik5/rkralik5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
