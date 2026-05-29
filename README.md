@@ -1,7 +1,7 @@
 ## Hi, I'm Robert
 
 <p align="center">
-Research assistant at King's College London specialising in neutrino physics and currently working on the T2K, Super-K and Hyper-K experiments with expertise in data analysis, detector calibration, light readout instrumentation and measurement, simulation and detector operations.
+I'm a postdoctoral research assistant at King's College London, specialising in neutrino physics. I am currently working on the T2K, Super-K and Hyper-K experiments, with wide-ranging expertise in data analysis, detector calibration, light-readout instrumentation and measurement, simulation, and detector operations.
 </p>
 
 <p align="center">
